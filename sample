@@ -1,16 +1,16 @@
 :start:
 Jim     role playing      5      70.00
 Linda   bridge           12      30.00
-John    jogging           8      30.00
+Julia    jogging           8      30.00
 
-John    jogging           8      30.00
+Julia    jogging           8      30.00
 Andrew  wind surfing     20    1000.00
 Lori    bridge            2       0.00
 Jim     role playing      5      70.00
 Linda   bridge           12      30.00
-John    jogging           8      30.00
+Julia    jogging           8      30.00
 
-John    jogging           8      30.00
+Julia    jogging           8      30.00
 Andrew  wind surfing     20    1000.00
 Lori    bridge            2       0.00
 
@@ -18,10 +18,5 @@ Lori    bridge            2       0.00
 name,gender,char,city,digit4,dollar,email
 Julia Paul,Female,1,Opumiru,9726,vun@jozer.sc,$5240.42
 Lillian Phelps,Male,J,Hasleduja,2900,gumaflo@me.py,$3069.52
-Carlos Harrington,Male,5,Vezfuhrir,5819,muvvelve@wagtubag.ee,$141.56
-Amanda Nguyen,Female,s,Dithuva,5814,gurnes@evoji.uk,$2144.30
-Leon Hanson,Female,F,Idnesik,7542,tijguve@wifu.cr,$3451.56
-Ivan Pratt,Female,n,Kowelbe,9965,bi@kohej.kh,$3743.27
-Glenn Henry,Male,K,Merzomoc,3419,tos@zokum.sg,$116.73
 Eva Richardson,Female,(,Tucdejtep,3062,se@kuzigi.ye,$3920.32
 :the end:
