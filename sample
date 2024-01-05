@@ -1,11 +1,11 @@
-:start:
+:::::::::start:::::::::::
 Jim	role playing      5      70.00
 Linda   bridge           12      30.00
-Julia   jogging           8      30.00
+John   jogging           8      30.00
 
 Jim     role playing      5      70.0
 Linda   bridge           12      30.00
-Julia   jogging           8      30.00
+John   jogging           8      30.00
 Andrew  wind surfing     20    1000.00
 Lori    bridge            2       0.00
 
@@ -14,4 +14,4 @@ name,gender,char,city,digit4,dollar,email
 Julia Paul,Female,1,Opumiru,9726,vun@jozer.sc,$5240.42
 Lillian Phelps,Male,J,Hasleduja,2900,gumaflo@me.py,$3069.52
 Eva Richardson,Female,(,Tucdejtep,3062,se@kuzigi.ye,$3920.32
-:the end:
+::::::::::the end::::::::::::::
