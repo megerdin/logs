@@ -36,8 +36,8 @@ nm-openvpn:x:116:128:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin
 hplip:x:117:7:HPLIP system user,,,:/var/run/hplip:/bin/false
 colord:x:118:129:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
 nm-openconnect:x:119:130:NetworkManager OpenConnect plugin,,,:/var/lib/NetworkManager:/usr/sbin/nologin
-	pulse:x:120:131:PulseAudio daemon,,,:/var/run/pulse:/usr/sbin/nologin
- speech-dispatcher:x:121:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+pulse:x:120:131:PulseAudio daemon,,,:/var/run/pulse:/usr/sbin/nologin
+speech-dispatcher:x:121:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
 nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
 
 amin:x:1000:1000:amin,,,:/home/amin:/bin/bash
